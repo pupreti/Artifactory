@@ -1,6 +1,6 @@
 name 'Artifactory'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Prakash Upreti'
+maintainer_email 'latitudemt8848@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures Artifactory'
 long_description 'Installs/Configures Artifactory'
